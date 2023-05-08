@@ -13,7 +13,7 @@ This is a an example of JS working with CSS to control on page transitions. The 
 
 ## Usage
 
-You can test the app here: https://manonthemon.github.io/Drum-kit/
+You can test the app here: https://manonthemon.github.io/Flex-Panels-Image-Gallery
 
 ## Copyright
 
